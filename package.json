@@ -4,7 +4,7 @@
   "description": "Responsive portfolio website",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive --use-polling --polling-interval 1000"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
   "author": "MaxQueen",
   "license": "ISC",
